@@ -1,0 +1,2 @@
+# JavaScript-Quiz-App
+This is a quiz app made with HTML, CSS, and JavaScript. The cool exceptional feature of this app is that the background color of the body, buttons changes to green or red accordingly when the user gives right or wrong answers respectively. This is very fun to play and is very simple to make. i will keep on developing similar fun and amazing projects just like this one in the future. 
